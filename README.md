@@ -1,4 +1,4 @@
-# Cold-Case-The-Lost-MNIST-Digits
+# Thesis-Cold-Case-The-Lost-MNIST-Digits
 
 This repository consists of my Master's Thesis. 
 
